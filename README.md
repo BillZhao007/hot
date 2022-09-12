@@ -11,6 +11,8 @@ Its structure and algorithmic details can be found in:
 HOT: A Height Optimized Trie Index for Main-Memory Database Systems
 by Binna, Zangerle, Pichl, Specht and Leis
 
+This reposity is forked from https://github.com/speedskater/hot.
+
 # Content
 
 This implementation of HOT is written in C++14 and can be built with the CMake build system.
